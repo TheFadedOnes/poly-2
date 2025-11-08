@@ -1,1 +1,1 @@
-<h1 style={{color: "red"}}>DEPLOYED & WORKING!</h1> # quick test
+import "./App.css"; function App() { return ( <div className="App"> <h1 style={{color: "red", fontSize: "48px"}}>DEPLOYED & WORKING!</h1> <p>If you see this, it works.</p> </div> ); } export default App;
