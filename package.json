@@ -1,6 +1,7 @@
 {
 "name": "poly",
 "version": "0.1.0",
+"homepage": "./some-path",
 "private": true,
 "dependencies": {
 "@testing-library/dom": "^10.4.1",
